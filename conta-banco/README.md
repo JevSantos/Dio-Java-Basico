@@ -2,7 +2,7 @@
 www.dio.me
 
 #### Autores
-- Intrutor: [Gleyson Sampaio](https://github.com/glysns)
+- Instrutor: [Gleyson Sampaio](https://github.com/glysns)
 
 ## Sintaxe - Desafio
 
